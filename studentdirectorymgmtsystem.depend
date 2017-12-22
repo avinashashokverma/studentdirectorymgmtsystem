@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477818988 source:c:\myworkspace\studentdirectorymgmtsystem\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
